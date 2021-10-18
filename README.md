@@ -1,5 +1,23 @@
 # Guess-My-movie
-a command prompt game that uses a manual decision tree to guess the movie of the player it needs to learn first.
+a command prompt game that uses a manual decision tree to guess the movie of the player it needs to learn first.  
+
+# What to expect:
+## Once you open
+* You can Play (teach the program)
+* Save what the program learnt
+* Load a memory (works only if you saved)
+
+![image](https://user-images.githubusercontent.com/57009004/137764680-690ac347-cc20-4e46-83c6-c77429726122.png)
+
+## As the program learns
+![image](https://user-images.githubusercontent.com/57009004/137765898-d8df387f-9e50-4bf3-a299-518bbea95005.png)
+
+## As the program wins
+![image](https://user-images.githubusercontent.com/57009004/137765700-15b562c4-a2b3-438f-9a9e-8fd8fde8b8d9.png)
+
+## Looking at the memory
+![image](https://user-images.githubusercontent.com/57009004/137767925-6ae023c5-2a66-4550-a112-81c059bbd707.png)
+
 ## How to use
 * open the project in Eclipse IDE
 * run StartGame class 
