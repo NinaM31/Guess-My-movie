@@ -1,5 +1,5 @@
 # Guess-My-movie
-a command prompt game that uses a manual decision tree to guess the movie of the player it needs to learn first.  
+a command prompt game that uses a manual decision tree to guess the movie of the player through learning first.  
 
 # How the game works
 The game trys to guess the movie of the player,
